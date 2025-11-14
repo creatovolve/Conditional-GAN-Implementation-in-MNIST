@@ -1,0 +1,19 @@
+Conditional GAN Model Summary
+==================================================
+
+Training completed on: 2025-10-09 07:52:26
+Total epochs: 25
+Learning rate: 0.0002
+Batch size: 128
+L2 regularization: 1e-05
+
+Model Architecture:
+Generator input dimension: 100
+Number of classes: 10
+Image channels: 1
+Feature size for PCA: 24
+
+Analysis Results:
+Adjusted Rand Index: 0.087
+Normalized Mutual Information: 0.226
+PCA explained variance: 0.220
